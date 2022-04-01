@@ -7,6 +7,7 @@
  *
  * Khi tham chiếu vào 1 đối tượng: Nghĩa là khi có 1 biến chứa giá trị tham chiếu, thì giá trị tham chiếu đó sẽ
  * tham chiếu đến 1 đối tượng trong bộ nhớ heap, giá trị tham chiếu đó là địa chỉ ô nhớ vd như 0x11.
+ *
  * */
 
 public class Sample {
